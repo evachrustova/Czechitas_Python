@@ -42,7 +42,6 @@ def hledat_podle_nazvu():
     else:
         print("Chyba při vyhledávání subjektu podle názvu.")
 
-# Hlavní menu
 def main():
     print("Vyber možnost:")
     print("1 - Vyhledat podle IČO")
@@ -56,6 +55,6 @@ def main():
     else:
         print("Neplatná volba.")
 
-# Spuštění programu
+
 if __name__ == "__main__":
     main()
