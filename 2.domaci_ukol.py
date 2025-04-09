@@ -55,6 +55,5 @@ def main():
     else:
         print("Neplatná volba.")
 
-
 if __name__ == "__main__":
     main()
